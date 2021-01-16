@@ -8,6 +8,7 @@ global j,i
 global s
 global q
 def opfn(x,y):
+    print("Binding Line missing")
     raise NotImplemented
     return 0
 #Nihar
